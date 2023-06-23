@@ -1,0 +1,69 @@
+{
+    "credentials": [
+        {
+            "login": "my_login_for_vk",
+            "password": "my_pass_for_vk",
+            "site": "vk.com"
+        },
+        {
+            "login": "my_login_for_yandex",
+            "password": "my_pass_for_yandex",
+            "site": "yu.com"
+        },
+        {
+            "login": "my_login_for_cisco",
+            "password": "my_pass_for_cisco",
+            "site": "cisco.com"
+        },
+        {
+            "login": "my_login_for_bmw",
+            "password": "my_pass_for_bmw",
+            "site": "bmw.com"
+        },
+        {
+            "login": "my_login_for_mos_pol",
+            "password": "my_pass_for_mos_pol",
+            "site": "mos_pol.com"
+        },
+        {
+            "login": "my_login_for_youtube",
+            "password": "my_pass_for_youtube",
+            "site": "youtube.com"
+        },
+        {
+            "login": "my_login_for_steam",
+            "password": "my_pass_for_steam",
+            "site": "steam.com"
+        },
+        {
+            "login": "my_login_for_spotify",
+            "password": "my_pass_for_spotify",
+            "site": "spotify.com"
+        },
+        {
+            "login": "my_login_for_qt",
+            "password": "my_pass_for_qt",
+            "site": "qt.com"
+        },
+        {
+            "login": "my_login_for_microsoft",
+            "password": "my_pass_for_microsoft",
+            "site": "microsoft.com"
+        },
+        {
+            "login": "my_login_for_my_site",
+            "password": "my_pass_for_my_site",
+            "site": "my_site.com"
+        },
+        {
+            "login": "my_login_for_mail",
+            "password": "my_pass_for_mail",
+            "site": "mail.com"
+        },
+        {
+            "login": "login_twitch",
+            "password": "zxcvbn123",
+            "site": "twitch.tv"
+        }
+    ]
+}
